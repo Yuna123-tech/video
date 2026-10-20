@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Creator Studio",
+  "description": "A powerful dashboard to convert scripts into video content with direct-to-the-point narration, dual English subtitles, and YouTube optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
