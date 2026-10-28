@@ -2,7 +2,7 @@
 
 대본이나 내 사진만 넣으면 **내 캐릭터가 설명하는 유튜브 영상**(자연스러운 TTS 내레이션, 한/영 자막, 썸네일, SRT)을 자동으로 만들어 주는 웹 앱입니다. Google Gemini API를 사용합니다.
 
-👉 **바로 사용하기: https://yuna123-tech.github.io/ai-video-studio/**
+👉 **바로 사용하기: https://yuna123-tech.github.io/video/**
 
 ## 사용 방법 (웹사이트)
 1. 위 주소를 크롬(또는 엣지)으로 엽니다.
